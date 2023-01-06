@@ -1,17 +1,17 @@
-com.fitme.app-pngs-0 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\generated\res\pngs\debug
-com.fitme.app-react-1 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\generated\res\react\debug
-com.fitme.app-resValues-2 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\generated\res\resValues\debug
-com.fitme.app-rs-3 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\generated\res\rs\debug
-com.fitme.app-mergeDebugResources-4 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.fitme.app-mergeDebugResources-5 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.fitme.app-merged_res-6 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\build\intermediates\merged_res\debug
-com.fitme.app-debug-7 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\src\debug\res
-com.fitme.app-main-8 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\android\app\src\main\res
-com.fitme.app-packaged_res-9 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
-com.fitme.app-packaged_res-10 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\node_modules\@react-native-community\masked-view\android\build\intermediates\packaged_res\debug
-com.fitme.app-packaged_res-11 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.fitme.app-packaged_res-12 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
-com.fitme.app-packaged_res-13 C:\DIYORBEK\WEB\REACT NATIVE\trenirovka_app\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
+com.fitme.app-pngs-0 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\generated\res\pngs\debug
+com.fitme.app-react-1 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\generated\res\react\debug
+com.fitme.app-resValues-2 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\generated\res\resValues\debug
+com.fitme.app-rs-3 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\generated\res\rs\debug
+com.fitme.app-mergeDebugResources-4 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.fitme.app-mergeDebugResources-5 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.fitme.app-merged_res-6 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\build\intermediates\merged_res\debug
+com.fitme.app-debug-7 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\src\debug\res
+com.fitme.app-main-8 C:\DIYORBEK\WEB\REACT NATIVE\fitme\android\app\src\main\res
+com.fitme.app-packaged_res-9 C:\DIYORBEK\WEB\REACT NATIVE\fitme\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.fitme.app-packaged_res-10 C:\DIYORBEK\WEB\REACT NATIVE\fitme\node_modules\@react-native-community\masked-view\android\build\intermediates\packaged_res\debug
+com.fitme.app-packaged_res-11 C:\DIYORBEK\WEB\REACT NATIVE\fitme\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.fitme.app-packaged_res-12 C:\DIYORBEK\WEB\REACT NATIVE\fitme\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.fitme.app-packaged_res-13 C:\DIYORBEK\WEB\REACT NATIVE\fitme\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
 com.fitme.app-jetified-flipper-0.125.0-14 C:\Users\ASUS\.gradle\caches\transforms-3\03f04a3f11198ce3b7c6cedb9b41266b\transformed\jetified-flipper-0.125.0\res
 com.fitme.app-lifecycle-viewmodel-2.3.1-15 C:\Users\ASUS\.gradle\caches\transforms-3\0bbaa5972f900275fec64cf526ac0bea\transformed\lifecycle-viewmodel-2.3.1\res
 com.fitme.app-appcompat-1.4.1-16 C:\Users\ASUS\.gradle\caches\transforms-3\1b40e4574e76bff5831ef4bf4270480d\transformed\appcompat-1.4.1\res
