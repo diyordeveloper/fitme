@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_administrators.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_administrators.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_humo.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_humo.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_fitnis.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_fitnis.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_image.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_image.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_dumbbell.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_dumbbell.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_welcome2.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_welcome2.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_fitnesone.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_fitnesone.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.fitme.app-main-29:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_trener.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_trener.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_welcome4.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_welcome4.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_fitnesthree.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_fitnesthree.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_visa.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_visa.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_welcome3.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_welcome3.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_uzcard.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_uzcard.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_bg.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_bg.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_home.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_home.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_tr.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_tr.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_welcome1.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_welcome1.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_vector.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_vector.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/drawable-mdpi_src_assets_image_fitnestwo.png.flat",
+        "source": "com.fitme.app-react-23:/drawable-mdpi/src_assets_image_fitnestwo.png"
+    },
+    {
+        "merged": "com.fitme.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.fitme.app-main-29:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

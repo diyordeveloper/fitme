@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fitme"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:6:5-25:19
+14        android:name="com.fitme.MainApplication"
+14-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:7:7-38
+15        android:allowBackup="false"
+15-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:11:7-34
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] /Users/auda/.gradle/caches/transforms-3/63a3df243d2d102452600006144a86df/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:9:7-41
+18        android:label="@string/app_name"
+18-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:8:7-39
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:10:7-52
+20        android:theme="@style/AppTheme" >
+20-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:12:7-38
+21        <activity
+21-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:13:7-24:18
+22            android:name="com.fitme.MainActivity"
+22-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:14:9-37
+23            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+23-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:16:9-118
+24            android:exported="true"
+24-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:19:9-32
+25            android:label="@string/app_name"
+25-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:15:9-41
+26            android:launchMode="singleTask"
+26-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:17:9-40
+27            android:windowSoftInputMode="adjustResize" >
+27-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:18:9-51
+28            <intent-filter>
+28-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:20:9-23:25
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:21:13-65
+29-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:21:21-62
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:22:13-73
+31-->/Users/auda/Desktop/ReactNative/fitme/android/app/src/main/AndroidManifest.xml:22:23-70
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+36            android:name="androidx.startup.InitializationProvider"
+36-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+37            android:authorities="com.fitme.androidx-startup"
+37-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+38            android:exported="false" >
+38-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+39            <meta-data
+39-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+40                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+40-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+41                android:value="androidx.startup" />
+41-->[androidx.emoji2:emoji2:1.0.0] /Users/auda/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+42            <meta-data
+42-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/auda/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/auda/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+44                android:value="androidx.startup" />
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/auda/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+45        </provider>
+46    </application>
+47
+48</manifest>

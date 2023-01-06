@@ -1,0 +1,4 @@
+#Sat Dec 10 18:01:23 UZT 2022
+base.0=/Users/auda/Desktop/ReactNative/fitme/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

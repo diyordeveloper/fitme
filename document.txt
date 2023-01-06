@@ -1,0 +1,30 @@
+{
+    "status": true,
+    "result": {
+        "_id": "63b7d8a5e5622925e9ade5e8",
+        "title": "Full Body",
+        "description": "Descreption lorem ipsum doloer emit",
+        "metadescription": "Meta description",
+        "price": "1000",
+        "category": "Мужчины",
+        "childcategory": "Новичок",
+        "author": "Dima Nagiev",
+        "exercises": [
+            {
+                title: 'Trenirovka 1',
+                workout: [
+                    {
+                        exercise: "card id ",
+                        approach: 5,
+                        repeat: "8-10",
+                    },
+                ]
+            }
+        ],
+        "weeks":["hafta kunlari","123sadasdasd"]
+        "createdAt": "2023-01-06T08:15:33.165Z",
+        "updatedAt": "2023-01-06T08:15:33.165Z",
+        "__v": 0
+    },
+    "message": "Успешно добавлено!"
+}

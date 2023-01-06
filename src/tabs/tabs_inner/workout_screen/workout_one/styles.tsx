@@ -1,0 +1,23 @@
+import { StyleSheet } from "react-native";
+import { COLORS } from "../../../../themes/constants";
+
+export const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: COLORS.BLACK,
+    },
+    box: {
+        flex: 1,
+    },
+    btn: {
+        backgroundColor: COLORS.BLACK,
+        borderWidth: 1.5,
+        borderColor: COLORS.WHITE,
+        borderStyle: 'dashed',
+    },
+    btnBox:{
+        flex: 0.5,
+        justifyContent:'space-between',
+        paddingTop: 40,
+    },
+})

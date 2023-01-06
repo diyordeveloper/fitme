@@ -1,0 +1,15 @@
+//Get trainings
+{
+  "trainings": [{"name": "Trenirovka 1"}]
+},
+//Get training details/id
+{
+    "exerciseTypes":[
+        {"name":"Jim leja","sets":"3-8-10","weekly":[""]}
+    ]
+}
+
+//POST edit weekly training details trainingId/weekIndex
+{
+    "value":"4/10"
+}
